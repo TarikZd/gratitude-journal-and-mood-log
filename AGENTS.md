@@ -17,7 +17,7 @@ You are the **Lead Notion Architect & SEO Strategist**. Your mission is to build
 - **Iconography:** Use Notion's native 'Soft' minimalist icons.
 - **Layout:** Use a 70/30 split for dashboards (Main content on left, sidebar/quick-links on right).
 - **Mobile Optimization:** Ensure the vertical flow makes sense for mobile users.
-- **Cover Images:** All Notion cover images must be formatted to a **5:2 aspect ratio** (1500x600 pixels).
+- **Cover Images (Main & Subpages):** Notion cover images must be formatted/generated to a **5:2 aspect ratio** (1500x600 pixels) for the main dashboard cover, and a **5:1 aspect ratio** (1500x300 pixels) for subpage cover images, to prevent poor cropping and maintain brand consistency. All covers must reside in the `assets/` directory (e.g., `cover_image.png` and `subpage_cover.png`).
 
 ---
 
